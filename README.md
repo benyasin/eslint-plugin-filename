@@ -49,13 +49,13 @@ module.exports = {
 You can also provide your own regex, if you are using your own regex, do not pass them as array.
 
 ```js
-'filename-rules/match': [2, /^([a-z]+-)*[a-z]+(?:\..*)?$/],
+'filename/match': [2, /^([a-z]+-)*[a-z]+(?:\..*)?$/],
 ```
 
 You can also specify different options for different file extensions. In this case the plugin will only check files with extensions you explicitly provided:
 
 ```js
-'filename-rules/match': [2, { '.js': 'camelCase', '.ts': /^([a-z]+-)*[a-z]+(?:\..*)?$/ }],
+'filename/match': [2, { '.js': 'camelCase', '.ts': /^([a-z]+-)*[a-z]+(?:\..*)?$/ }],
 ```
 
 ## License
