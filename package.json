@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-filename",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Enforce filename conventions for linted files",
   "main": "lib/index.js",
   "engines": {
