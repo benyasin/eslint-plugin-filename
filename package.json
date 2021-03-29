@@ -28,7 +28,7 @@
     "url": "git+https://github.com/benyasin/eslint-plugin-filename-rules.git"
   },
   "keywords": [],
-  "author": "Denis Olsem <dols3m@gmail.com>",
+  "author": "benyasin<ben.yasin80@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/benyasin/eslint-plugin-filename-rules/issues"
